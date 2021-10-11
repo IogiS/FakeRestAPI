@@ -4,6 +4,11 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
+  "users": [
+    { "id": 1, "email": "qweqweqw@yandex.ru", "password": "qwerty" },
+    { "id": 2, "email": "qwe@yandex.ru", "password": "qwerty" },
+    { "id": 3, "email": "qweqweeee@yandex.ru", "password": "qwerty" }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
