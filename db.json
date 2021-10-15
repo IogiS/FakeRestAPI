@@ -9,6 +9,18 @@
     { "id": 2, "email": "qwe@yandex.ru", "password": "qwerty" },
     { "id": 3, "email": "qweqweeee@yandex.ru", "password": "qwerty" }
   ],
+  "videocards": [
+    { "id": 1, "name": "RTX 3090", "Manufacturer": "NVIDIA" , "img": "https://www.ixbt.com/img/n1/news/2021/7/3/nvidia_geforce_rtx_3090_large.jpg"  },
+    { "id": 2, "name": "RTX 3080", "Manufacturer": "NVIDIA" , "img": "https://www.ixbt.com/img/n1/news/2020/8/0/twarren_rtx3080.0_large.jpg"  },
+    { "id": 3, "name": "Tesla A100", "Manufacturer": "NVIDIA" , "img": "https://3dnews.ru/assets/external/illustrations/2020/07/24/1016561/NVIDIA-A100-OctaneBench_01.jpg"  },
+    { "id": 4, "name": "VII", "Manufacturer": "AMD" , "img": "https://www.notebookcheck-ru.com/fileadmin/_processed_/a/4/csm_Radeon_VII_4_8fd258b44e.jpg"  },
+    { "id": 5, "name": "RX 6800 XT", "Manufacturer": "AMD" , "img": "https://i.citrus.ua/imgcache/size_500/uploads/shop/6/1/61d6f52b602b14b1ca4229cacafcc8d0.jpg"  },
+    { "id": 6, "name": "RX 6900 XT", "Manufacturer": "AMD" , "img": "https://3dnews.ru/assets/external/illustrations/2020/12/07/1027179/02.jpg"  },
+    { "id": 7, "name": "RTX 3060 Ti", "Manufacturer": "NVIDIA" , "img": "https://hyperpc.ru/images/catalog/hardware/video-cards/gigabyte/rtx_3060ti_eagle/gigabyte-geforce-rtx-3060ti-eagle.jpg"  },
+    { "id": 8, "name": "RTX 3070", "Manufacturer": "NVIDIA" , "img": "https://allegro.stati.pl/AllegroIMG/PRODUCENCI/GIGABYTE/GV-N3070GAMING-OC-8GD/1-karta-graficzna-box.jpg"  },
+    { "id": 9, "name": "RTX 2060", "Manufacturer": "NVIDIA" , "img": "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/geforce-rtx-turing/2060/geforce-rtx-2060-gallery-a-641-d@2x.jpg"  },
+    { "id": 10, "name": "RX Vega 64", "Manufacturer": "AMD" , "img": "https://images.ua.prom.st/1596031919_w640_h640_videokarta-asus-radeon.jpg"  }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
